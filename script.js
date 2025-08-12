@@ -39,8 +39,8 @@ if (form) {
 const typed = new Typed("#typed-text", {
   strings: [
     "Full Stack Developer",
-    "Data Analytics",
-    "Python & Java Enthusiast",
+    "Web developer",
+    "Java Enthusiast",
     "Tech Explorer",
   ],
   typeSpeed: 60,
